@@ -1,0 +1,1 @@
+"./flash.obj" "./simple_receive_app.obj" "./mrfi/mrfi.obj" "./bsp/bsp.obj" "../lnk_msp430f2274.cmd" -l"rts430.lib" 
